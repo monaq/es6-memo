@@ -1,4 +1,4 @@
-# Test - 새해 감사인사 보내기
+# Test - es6 메모 추가 앱
 ```
 npm install
 npm start
